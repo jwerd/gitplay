@@ -3,3 +3,4 @@ tesating one two three
 more stuff
 10 goto 20
 20 This is over
+30 goto 10
