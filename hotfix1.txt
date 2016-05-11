@@ -1,0 +1,7 @@
+this is a major hotfix that can't affect production
+
+newline
+
+newline
+
+another newline
