@@ -1,7 +1,3 @@
 this is a major hotfix that can't affect production
 
-newline
-
-newline
-
-another newline
+so what is the proposed plan?
